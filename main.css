@@ -1,0 +1,24 @@
+#brian{
+    border: solid rgb(210, 71, 16) 5px;
+    border-radius: 4em;
+    background-color: rgba(121, 103, 103, 0.517);
+    width: 500px;
+    position: relative;
+
+}
+
+#brianHeader{
+    color: rgb(166, 14, 193);
+    padding: 2rem;
+
+}
+
+#brianList{
+    position: relative;
+    left: 5rem;
+}
+
+#brianPic{
+    position: relative;
+    left: 5rem;
+}
