@@ -1,24 +1,31 @@
-#brian{
-    border: solid rgb(210, 71, 16) 5px;
-    border-radius: 4em;
-    background-color: rgba(121, 103, 103, 0.517);
-    width: 500px;
-    position: relative;
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
-#brianHeader{
-    color: rgb(166, 14, 193);
-    padding: 2rem;
-
+div {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 20px;
 }
 
-#brianList{
-    position: relative;
-    left: 5rem;
+img {
+    max-width: 100%;
+    border-radius: 10px 10px 0 0;
 }
 
-#brianPic{
-    position: relative;
-    left: 5rem;
+h1 {
+    margin: 10px 0;
 }
+
+
+
